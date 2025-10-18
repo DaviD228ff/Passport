@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/DaviD228ff/Passport.git
+git branch -M main
+git add .
+git commit -m "Initial commit: Passport project"
+git push -u origin main
